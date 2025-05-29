@@ -1,0 +1,7 @@
+2025-05-28 18:22:50,920 - model - ERROR - Model directory not found at bilstm_fraud_detection_v1.0.0\model
+2025-05-28 20:07:40,637 - model - INFO - Model loaded successfully from bilstm_fraud_detection_v1.0.0
+2025-05-28 20:08:08,199 - model - ERROR - Error in prediction: '_UserObject' object has no attribute 'predict'
+2025-05-28 20:08:08,200 - __main__ - ERROR - Error during prediction: '_UserObject' object has no attribute 'predict'
+2025-05-28 20:09:36,256 - model - INFO - Model loaded successfully from bilstm_fraud_detection_v1.0.0
+2025-05-28 20:10:08,412 - __main__ - ERROR - Error during prediction: Progress Value has invalid value [0.0, 1.0]: 1.000678
+2025-05-28 20:12:06,418 - model - INFO - Model loaded successfully from bilstm_fraud_detection_v1.0.0
